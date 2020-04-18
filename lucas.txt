@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+dddddas
+=======
+as
+não sei o que fazer agora
+>>>>>>> teste
