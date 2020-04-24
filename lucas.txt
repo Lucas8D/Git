@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 Lucas FAria freire
+=======
+dddddd
+dddddas
+
+ssdddddd
+dddd
+
+dddd
+
+ddd
+>>>>>>> lucas
